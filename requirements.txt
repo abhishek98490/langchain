@@ -1,0 +1,8 @@
+langchain
+python-dotenv
+langchain_community
+langchain-text-splitters
+pymupdf
+beautifulsoup4
+sentence_transformers
+langchain_huggingface
